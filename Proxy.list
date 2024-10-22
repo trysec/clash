@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,kuajing.uk
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,filezilla-project.org
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
